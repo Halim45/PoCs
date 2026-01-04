@@ -1,4 +1,4 @@
-Assorted proof of concept exploits for software vulnerabilities I've discovered & responsibly disclosed.
+Assorted proof of concept exploits for software security issues I've discovered & responsibly disclosed.
 
 Use only for educational purposes.
 
